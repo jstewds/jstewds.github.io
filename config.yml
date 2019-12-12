@@ -31,13 +31,14 @@ services:
     icon: "fas fa-heartbeat"
     items:
       - name: "PRTG"
-        logo: "/assets/tools/monit.png"
+        logo: "/assets/tools/PRTG.png"
         subtitle: "Network and Server Monitor"
         tag: "PRTG"
         url: "https://hawk.durasupreme.com"
       - name: "LANSweeper"
-        logo: "/assets/tools/grafana.png"
+        logo: "/assets/tools/lansweeper.png"
         subtitle: "Workstation and Server Inventory Tool"
+        tag: "BringOnTheBroom"
         # Optional tagstyle
         # Same styling options as the optional message.
         #tagstyle: "is-success"
