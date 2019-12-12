@@ -9,10 +9,10 @@ logo: "assets/duralogo.png"
 
 # Optional message
 # See https://bulma.io/documentation/components/message/#colors for styling options.
-message:
-  style: "is-warning"
-  title: "Hi there!"
-  content: "Welcome to the new IT OPS Dashboard! Please let Jason know if anything needs changing."
+#message:
+  #style: "is-warning"
+  #title: "Hi there!"
+  #content: "Welcome to the new IT OPS Dashboard! Please let Jason know if anything needs changing."
 
 # Optional navbar
 links:
