@@ -77,3 +77,8 @@ services:
         # Same styling options as the optional message.
         #tagstyle: "is-success"
         url: "https://app.any.run/"
+      - name: "NeverSSL"
+        logo: "/assets/tools/neverssl.png"
+        subtitle: "Guest Wifi Access Trick"
+        tag: "SecuritySadness"
+        url: "http://neverssl.com"
