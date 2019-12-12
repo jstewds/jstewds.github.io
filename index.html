@@ -1,8 +1,44 @@
 <!DOCTYPE html>
 <html>
+<head>
+    <title>Home</title>
+    <link rel="stylesheet" href="style/style.css">
+    
+</head>
+
 <body>
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
-  <p><a href="https://hawk">PRTG</a></p>
+    <div id="name">Home</div>
+    <input id="searchInput" class="searchBar" type="text" placeholder="Search..."
+        autocomplete="Off">
+    <script src="script/search.js"></script>
+   
+    
+    <div class="sites">
+        <button class="button" onclick="clicked('youtube')" 
+            style="background: url(logo/youtube.svg);">
+        </button>   
+        <button class="button" onclick="clicked('reddit')" 
+            style="background: url(logo/reddit.svg);">
+        </button>   
+        <button class="button" onclick="clicked('wikipedia')" 
+            style="background: url(logo/wikipedia.svg);">
+        </button>
+        <button class="button" onclick="clicked('github')" 
+            style="background: url(logo/github.svg);">
+        </button>   
+        <button class="button" onclick="clicked('spotify')" 
+            style="background: url(logo/spotify.svg);">
+        </button>   
+        <button class="button" onclick="clicked('microsoft')" 
+            style="background: url(logo/microsoft.svg);">
+        </button>   
+        <button class="button" onclick="clicked('ebay')" 
+            style="background: url(logo/ebay.svg);">
+        </button>   
+        <button class="button" onclick="clicked('gmail')" 
+            style="background: url(logo/gmail.svg);">
+        </button>    
+        <script src="script/button.js"></script>
+    </div>
 </body>
 </html>
