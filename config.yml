@@ -2,17 +2,17 @@
 # Homepage configuration
 # See https://fontawesome.com/icons for icons options
 
-title: "Simple homepage"
-subtitle: "Homer"
+title: "Shared Homepage"
+subtitle: "Dura IT Ops"
 logo: "assets/logo.png"
-icon: "fas fa-skull-crossbones"
+# icon: "fas fa-skull-crossbones"
 
 # Optional message
 # See https://bulma.io/documentation/components/message/#colors for styling options.
 message:
   style: "is-warning"
-  title: "Optional message!"
-  content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque risus mi, tempus quis placerat ut, porta nec nulla. Vestibulum rhoncus ac ex sit amet fringilla. Nullam gravida purus diam, et dictum felis venenatis efficitur. Aenean ac eleifend lacus, in mollis lectus. Donec sodales, arcu et sollicitudin porttitor, tortor urna tempor ligula."
+  title: "Hi there!"
+  content: "Welcome to the new IT OPS Dashboard! Please let Jason know if anything needs changing."
 
 # Optional navbar
 links:
@@ -27,22 +27,6 @@ links:
 # First level array represent a group.
 # Leave only a "items" key if not using group (group name, icon & tagstyle are optional, section separation will not be displayed).
 services:
-  - name: "DevOps"
-    icon: "fas fa-code-branch"
-    items:
-      - name: "Jenkins"
-        logo: "/assets/tools/jenkins.png"
-        subtitle: "Continuous integration server"
-        tag: "CI"
-        url: "#"
-      - name: "RabbitMQ Management"
-        logo: "/assets/tools/rabbitmq.png"
-        subtitle: "Manage & monitor RabbitMQ server"
-        tag: "haproxy"
-        # Optional tagstyle
-        # Same styling options as the optional message.
-        tagstyle: "is-success"
-        url: "#"
   - name: "Monitoring"
     icon: "fas fa-heartbeat"
     items:
@@ -64,4 +48,7 @@ services:
         logo: "/assets/tools/pingdom.png"
         subtitle: "Pingdom public reports overview"
         tag: "CI"
+        # Optional tagstyle
+        # Same styling options as the optional message.
+        #tagstyle: "is-success"
         url: "#"
