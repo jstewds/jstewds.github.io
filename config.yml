@@ -43,3 +43,19 @@ services:
         # Same styling options as the optional message.
         #tagstyle: "is-success"
         url: "http://owl.durasupreme.com:81"
+  - name: "SaaS Apps"
+    icon: "fas cloud-upload-alt"
+    items:
+      - name: "IT Glue"
+        logo: "/assets/tools/itglue.png"
+        subtitle: "Documentation"
+        tag: "TastesGreat"
+        url: "https://durasupreme.itglue.com"
+      - name: "FreshService"
+        logo: "/assets/tools/freshservice.png"
+        subtitle: "Our Ticketing System"
+        tag: "No ticket? No work."
+        # Optional tagstyle
+        # Same styling options as the optional message.
+        #tagstyle: "is-success"
+        url: "https://durasupreme.freshservice.com/helpdesk/tickets"
