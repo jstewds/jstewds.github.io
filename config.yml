@@ -15,13 +15,13 @@ message:
   content: "Welcome to the new IT OPS Dashboard! Please let Jason know if anything needs changing."
 
 # Optional navbar
-links:
-  - name: "ansible"
-    icon: "fab fa-github"
-    url: "https://github.com/xxxxx/ansible/"
-  - name: "Wiki"
-    icon: "fas fa-book"
-    url: "https://wiki.xxxxxx.com/"
+#links:
+#  - name: "ansible"
+#    icon: "fab fa-github"
+#    url: "https://github.com/xxxxx/ansible/"
+#  - name: "Wiki"
+#    icon: "fas fa-book"
+#    url: "https://wiki.xxxxxx.com/"
 
 # Services
 # First level array represent a group.
@@ -33,7 +33,7 @@ services:
       - name: "PRTG"
         logo: "/assets/tools/PRTG.png"
         subtitle: "Network and Server Monitor"
-        tag: "PRTG"
+        tag: "Wacky Germans!"
         url: "https://hawk.durasupreme.com"
       - name: "LANSweeper"
         logo: "/assets/tools/lansweeper.png"
@@ -44,7 +44,7 @@ services:
         #tagstyle: "is-success"
         url: "http://owl.durasupreme.com:81"
   - name: "SaaS Apps"
-    icon: "fas cloud-upload-alt"
+    icon: "fas fa-cloud-upload-alt"
     items:
       - name: "IT Glue"
         logo: "/assets/tools/itglue.png"
