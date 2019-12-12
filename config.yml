@@ -15,13 +15,10 @@ message:
   content: "Welcome to the new IT OPS Dashboard! Please let Jason know if anything needs changing."
 
 # Optional navbar
-#links:
-#  - name: "ansible"
-#    icon: "fab fa-github"
-#    url: "https://github.com/xxxxx/ansible/"
-#  - name: "Wiki"
-#    icon: "fas fa-book"
-#    url: "https://wiki.xxxxxx.com/"
+links:
+  - name: "GitHub"
+    icon: "fab fa-github"
+    url: "https://github.com/"
 
 # Services
 # First level array represent a group.
@@ -59,3 +56,8 @@ services:
         # Same styling options as the optional message.
         #tagstyle: "is-success"
         url: "https://durasupreme.freshservice.com/helpdesk/tickets"
+      - name: "SmartSheets"
+        logo: "/assets/tools/smartsheet.png"
+        subtitle: "Project Management"
+        tag: "WhoNeedsExcel?"
+        url: "https://durasupreme.itglue.com"
