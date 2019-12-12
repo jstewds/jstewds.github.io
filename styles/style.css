@@ -33,7 +33,7 @@ body {
         font-size: 90px;
         position: absolute;
         top: 10%;
-        font-family: 'Pacifico';
+        font-family: 'Roboto Mono', monospace;
         font-weight: 500;
         user-select: none;
         -moz-user-select: none;
