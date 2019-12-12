@@ -56,8 +56,8 @@ services:
         # Same styling options as the optional message.
         #tagstyle: "is-success"
         url: "https://durasupreme.freshservice.com/helpdesk/tickets"
-      - name: "SmartSheets"
+      - name: "SmartSheet"
         logo: "/assets/tools/smartsheet.png"
         subtitle: "Project Management"
         tag: "WhoNeedsExcel?"
-        url: "https://durasupreme.itglue.com"
+        url: "https://app.smartsheet.com"
