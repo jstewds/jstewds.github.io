@@ -61,3 +61,19 @@ services:
         subtitle: "Project Management"
         tag: "WhoNeedsExcel?"
         url: "https://app.smartsheet.com"
+  - name: "Other Tools"
+    icon: "fas fa-cloud-upload-alt"
+    items:
+      - name: "URLScan"
+        logo: "/assets/tools/urlscan.png"
+        subtitle: "Scan a URL to see if it is malicious"
+        tag: "SurfSafely"
+        url: "https://urlscan.io/"
+      - name: "AnyRun"
+        logo: "/assets/tools/anyrun.png"
+        subtitle: "Scan a file to see if it is malicious"
+        tag: "ThanksStranger!"
+        # Optional tagstyle
+        # Same styling options as the optional message.
+        #tagstyle: "is-success"
+        url: "https://app.any.run/"
