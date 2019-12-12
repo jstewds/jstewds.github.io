@@ -62,7 +62,7 @@ services:
         tag: "WhoNeedsExcel?"
         url: "https://app.smartsheet.com"
   - name: "Other Tools"
-    icon: "fas fa-cloud-upload-alt"
+    icon: "fas fa-map-signs"
     items:
       - name: "URLScan"
         logo: "/assets/tools/urlscan.png"
