@@ -50,6 +50,11 @@ services:
         # Same styling options as the optional message.
         #tagstyle: "is-success"
         url: "http://owl.durasupreme.com:81"
+      - name: "PagerDuty"
+        logo: "/assets/tools/pagerduty.png"
+        subtitle: "On-Call Alerting System"
+        tag: "Who took my false teeth?!"
+        url: "https://durasupreme.pagerduty.com"
   - name: "SaaS Apps"
     icon: "fas fa-cloud-upload-alt"
     items:
@@ -92,4 +97,3 @@ services:
         subtitle: "Guest Wifi Access Trick"
         tag: "SecuritySadness"
         url: "http://neverssl.com"
-        
