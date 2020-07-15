@@ -18,7 +18,7 @@ logo: "assets/duralogo.png"
 links:
   - name: "GitHub"
     icon: "fab fa-github"
-    url: "https://github.com/"
+    url: "https://github.com/dsitops"
 
 # Services
 # First level array represent a group.
@@ -32,6 +32,16 @@ services:
         subtitle: "Network and Server Monitor"
         tag: "Wacky Germans!"
         url: "https://hawk.durasupreme.com"
+      - name: "NetDisco"
+        logo: "/assets/tools/disco.jpg"
+        subtitle: "Network stats and config changes"
+        tag: "Boogie Wonderland!"
+        url: "http://netdisco.durasupreme.com"
+      - name: "Ansible"
+        logo: "/assets/tools/ansible.jpg"
+        subtitle: "Automation and Crchestration"
+        tag: "Where'd the beat go?"
+        url: "http://ansible.durasupreme.com"
       - name: "LANSweeper"
         logo: "/assets/tools/lansweeper.png"
         subtitle: "Workstation and Server Inventory Tool"
@@ -82,3 +92,4 @@ services:
         subtitle: "Guest Wifi Access Trick"
         tag: "SecuritySadness"
         url: "http://neverssl.com"
+        
