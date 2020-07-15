@@ -39,7 +39,7 @@ services:
         url: "http://netdisco.durasupreme.com"
       - name: "Ansible"
         logo: "/assets/tools/ansible.jpg"
-        subtitle: "Automation and Crchestration"
+        subtitle: "Automation and Orchestration"
         tag: "Where'd the beat go?"
         url: "http://ansible.durasupreme.com"
       - name: "LANSweeper"
