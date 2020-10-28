@@ -55,6 +55,11 @@ services:
         subtitle: "On-Call Alerting System"
         tag: "Who took my false teeth?!"
         url: "https://durasupreme.pagerduty.com"
+      - name: "Proteus"
+        logo: "/assets/tools/proteus.png"
+        subtitle: "Sever Room Environmental Monitoring"
+        tag: "Blizzards are delicious"
+        url: "https://cloud.proteussensor.com/html/index.php"
   - name: "SaaS Apps"
     icon: "fas fa-cloud-upload-alt"
     items:
