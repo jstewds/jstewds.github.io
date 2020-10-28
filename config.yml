@@ -91,6 +91,11 @@ services:
         subtitle: "Security Software"
         tag: "I was saying boo-urns!"
         url: "https://falcon.crowdstrike.com"
+      - name: "Securence"
+        logo: "/assets/tools/securence.png"
+        subtitle: "Spam Filtering Software"
+        tag: "It's SPAMTASTC!"
+        url: "https://admin.securence.com/index.php"
   - name: "Other Tools"
     icon: "fas fa-map-signs"
     items:
