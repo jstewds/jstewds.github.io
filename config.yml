@@ -96,6 +96,11 @@ services:
         subtitle: "Spam Filtering Software"
         tag: "It's SPAMTASTC!"
         url: "https://admin.securence.com/index.php"
+      - name: "Metro Alarm Virtual Keypad"
+        logo: "/assets/tools/virtualkeypad.png"
+        subtitle: "Remote Access to Security"
+        tag: "Beep-boop-bop!"
+        url: "https://www.virtualkeypad.com/"
   - name: "Other Tools"
     icon: "fas fa-map-signs"
     items:
