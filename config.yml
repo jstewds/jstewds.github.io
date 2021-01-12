@@ -55,7 +55,7 @@ services:
       - name: "Meraki"
         logo: "/assets/tools/meraki.png"
         subtitle: "Pierz Meraki Switch & Security"
-        tag: "Who took my false teeth?"
+        tag: "I'm a little teapot"
         url: "https://n151.meraki.com/Pierz-switch/n/m2llRdxc/manage/usage/list"
   - name: "SaaS Apps"
     icon: "fas fa-cloud-upload-alt"
