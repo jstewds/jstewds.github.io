@@ -17,7 +17,7 @@ logo: "assets/duralogo.png"
 # Optional navbar
 links:
   - name: "Dura"
-    icon: "fab fa-home"
+    icon: "fas fa-home"
     url: "https://jstewds.github.io/"
   - name: "Bertch"
     icon: "fas fa-road"
