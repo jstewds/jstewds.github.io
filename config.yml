@@ -16,9 +16,12 @@ logo: "assets/duralogo.png"
 
 # Optional navbar
 links:
-  - name: "GitHub"
+  - name: "Dura"
     icon: "fab fa-github"
-    url: "https://github.com/dsitops"
+    url: "https://jstewds.github.io/"
+  - name: "Bertch"
+    icon: "fab fa-handshake-o"
+    url: ""
 
 # Services
 # First level array represent a group.
