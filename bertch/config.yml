@@ -19,7 +19,7 @@ Columns: "4"
 # Optional navbar
 links:
   - name: "Dura"
-    icon: "fab fa-github"
+    icon: "fab fa-home"
     url: "https://jstewds.github.io/"
   - name: "Bertch"
     icon: "fas fa-road"
