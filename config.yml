@@ -20,7 +20,10 @@ links:
     icon: "fab fa-github"
     url: "https://jstewds.github.io/"
   - name: "Bertch"
-    icon: "fab fa-handshake-o"
+    icon: "fas fa-road"
+    url: ""
+  - name: "Office 365"
+    icon: "fas fa-cogs"
     url: ""
 
 # Services
