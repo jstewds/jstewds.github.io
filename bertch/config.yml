@@ -36,7 +36,7 @@ services:
     icon: "fas fa-heartbeat"
     items:
       - name: "Website"
-        logo: "/assets/tools/PRTG.png"
+        logo: "/assets/tools/bertch.png"
         subtitle: "Their public website"
         # tag: "Wacky Germans!"
         url: "https://www.bertch.com/"
