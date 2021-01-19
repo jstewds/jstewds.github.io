@@ -7,6 +7,8 @@ subtitle: "Dura IT Ops"
 logo: "assets/duralogo.png"
 # icon: "fas fa-skull-crossbones"
 
+Columns: "4"
+
 # Optional message
 # See https://bulma.io/documentation/components/message/#colors for styling options.
 #message:
@@ -30,21 +32,11 @@ links:
 # First level array represent a group.
 # Leave only a "items" key if not using group (group name, icon & tagstyle are optional, section separation will not be displayed).
 services:
-  - name: "Office 365"
-    icon: "fas fa-cogs"
+  - name: "Everything"
+    icon: "fas fa-heartbeat"
     items:
-      - name: "Office Admin Page"
-        logo: "/assets/tools/o365.png"
-        subtitle: "Access the Main Office 365 Admin Page"
-        tag: "Admin? More like Sadmin..."
-        url: "https://admin.microsoft.com/AdminPortal/Home#/homepage"
-      - name: "Exchange Admin Center"
-        logo: "/assets/tools/exchange.png"
-        subtitle: "Direct Access to the Exchange Admin Center"
-        tag: "Which witch is which?"
-        url: "https://outlook.office365.com/ecp/?rfr=Admin_o365&exsvurl=1&mkt=en-US&Realm=durasupreme.com"
-      - name: "Sharepoint Admin Center"
-        logo: "/assets/tools/sharepoint.png"
-        subtitle: "Direct Access to the Sharepoint Admin Center"
-        tag: "Sharing is caring"
-        url: "https://durasupremeinc-admin.sharepoint.com/_layouts/15/online/AdminHome.aspx#/home"
+      - name: "Website"
+        logo: "/assets/tools/PRTG.png"
+        subtitle: "Their public website"
+        # tag: "Wacky Germans!"
+        url: "https://www.bertch.com/"
