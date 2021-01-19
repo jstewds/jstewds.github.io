@@ -101,6 +101,11 @@ services:
   - name: "Other Tools"
     icon: "fas fa-map-signs"
     items:
+      - name: "GoDaddy"
+        logo: "/assets/tools/godaddy.png"
+        subtitle: "Manage SSL Certs"
+        tag: "SSL = Super Soaker Land"
+        url: "https://account.godaddy.com/products"
       - name: "URLScan"
         logo: "/assets/tools/urlscan.png"
         subtitle: "Scan a URL to see if it is malicious"
