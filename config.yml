@@ -50,7 +50,7 @@ services:
         subtitle: "Workstation and Server Inventory Tool"
         tag: "BringOnTheBroom"
         url: "http://owl.durasupreme.com:81"
-        - name: "CommVault"
+      - name: "CommVault"
         logo: "/assets/tools/commvault.png"
         subtitle: "Backups"
         tag: "savor the flavor"
