@@ -131,3 +131,10 @@ services:
         subtitle: "Scan a file to see if it is malicious"
         tag: "It is not a Prius"
         url: "https://www.hybrid-analysis.com/"
+      - name: "DNSlytics"
+        logo: "/assets/tools/dnslytics.png"
+        subtitle: "Full DNS records, etc."
+        tag: "It's always DNS"
+        url: "https://dnslytics.com/"
+
+       
