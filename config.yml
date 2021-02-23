@@ -136,5 +136,9 @@ services:
         subtitle: "Full DNS records, etc."
         tag: "It's always DNS"
         url: "https://dnslytics.com/"
-
+      - name: "MXToolbox"
+        logo: "/assets/tools/mxtoolbox.png"
+        subtitle: "MX Records, Email Blacklists, etc."
+        tag: "You've got mail!"
+        url: "https://mxtoolbox.com/"
        
