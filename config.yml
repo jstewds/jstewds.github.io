@@ -28,7 +28,7 @@ links:
     icon: "fas fa-cogs"
     url: "https://jstewds.github.io/o365/"
   - name: "Azure AD (AAD)"
-    icon: "fas fa-address-book-o"
+    icon: "fas fa-book"
     url: "https://portal.azure.com/#home"
   - name: "DuraLINK"
     icon: "fas fa-link"
