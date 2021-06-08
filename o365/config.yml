@@ -50,6 +50,6 @@ services:
         url: "https://durasupremeinc-admin.sharepoint.com/_layouts/15/online/AdminHome.aspx#/home"
       - name: "Security - Threat Review"
         logo: "/assets/tools/sharepoint.png"
-        subtitle: "Direct Access to the Threat Review page in the Security Center"
-        tag: "SWho goes there?"
+        subtitle: "Direct Access to Security Center - Threat Review"
+        tag: "Who goes there?"
         url: "https://security.microsoft.com/threatreview"
