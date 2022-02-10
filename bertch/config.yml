@@ -27,12 +27,36 @@ links:
   - name: "Office 365"
     icon: "fas fa-cogs"
     url: "https://jstewds.github.io/o365/"
+  - name: "Azure AD (AAD)"
+    icon: "fas fa-book"
+    url: "https://portal.azure.com/#home"
+  - name: "DuraLINK"
+    icon: "fas fa-link"
+    url: "https://duralink.durasupreme.com"
 
 # Services
 # First level array represent a group.
 # Leave only a "items" key if not using group (group name, icon & tagstyle are optional, section separation will not be displayed).
 services:
-  - name: "Everything"
+  - name: "Monitoring"
+    icon: "fas fa-heartbeat"
+    items:
+      - name: "PRTG"
+        logo: "/assets/tools/PRTG.png"
+        subtitle: "Network and Server Monitor"
+        tag: "Wacky Germans!"
+        url: "https://#"
+      - name: "NetDisco"
+        logo: "/assets/tools/disco.jpg"
+        subtitle: "Network stats and config changes"
+        tag: "Boogie Wonderland!"
+        url: "http://10.1.1.90:5000/"
+      - name: "LANSweeper"
+        logo: "/assets/tools/lansweeper.png"
+        subtitle: "Workstation and Server Inventory Tool"
+        tag: "BringOnTheBroom"
+        url: "http://server48.bcm.local:81/"
+  - name: "Everything Else"
     icon: "fas fa-heartbeat"
     items:
       - name: "Website"
