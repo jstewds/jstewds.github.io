@@ -73,7 +73,7 @@ services:
         url: "https://cloud.proteussensor.com/html/index.php"
       - name: "Meraki"
         logo: "/assets/tools/meraki.png"
-        subtitle: "Pierz Meraki Switch & Security"
+        subtitle: "All APs, Pierz Meraki Switch & Security"
         tag: "I'm a little teapot"
         url: "https://n151.meraki.com/Pierz-switch/n/m2llRdxc/manage/usage/list"
   - name: "SaaS Apps"
