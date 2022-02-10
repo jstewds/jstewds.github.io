@@ -25,6 +25,12 @@ links:
   - name: "Office 365"
     icon: "fas fa-cogs"
     url: "https://jstewds.github.io/o365/"
+  - name: "Azure AD (AAD)"
+    icon: "fas fa-book"
+    url: "https://portal.azure.com/#home"
+  - name: "DuraLINK"
+    icon: "fas fa-link"
+    url: "https://duralink.durasupreme.com"
 
 # Services
 # First level array represent a group.
