@@ -69,6 +69,11 @@ services:
         subtitle: "Security Software"
         tag: "I was saying boo-urns!"
         url: "https://falcon.crowdstrike.com"  
+      - name: "Barracuda"
+        logo: "/assets/tools/barracuda.png"
+        subtitle: "Email Protection & ATP "
+        tag: "And tales, it never fails"
+        url: "https://ess.barracudanetworks.com/"  
   - name: "Everything Else"
     icon: "fas fa-ball-pile"
     items:
