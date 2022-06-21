@@ -84,6 +84,11 @@ services:
   - name: "SaaS Apps"
     icon: "fas fa-cloud-upload-alt"
     items:
+      - name: "SharePoint - SCB IT"
+        logo: "/assets/tools/sharepoint.png"
+        subtitle: "All of the things"
+        tag: "Sharing IS caring"
+        url: "https://durasupremeinc.sharepoint.com/sites/SupremeCabinetry/Information%20Technology"
       - name: "IT Glue"
         logo: "/assets/tools/itglue.png"
         subtitle: "Documentation"
